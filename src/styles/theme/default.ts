@@ -5,5 +5,6 @@ export const defaultColors = {
   black: "#000000",
   white: "#FFFFFF",
   pink: "#DC58EF",
-  red: "#FF576A"
+  red: "#FF576A",
+  gray: "#F2F2F2"
 };

@@ -9,14 +9,14 @@ const themeColors: ThemeColors = {
   },
 
   textFont: {
-    mainFont: "",
-    oneFont: ""
+    mainFont: "Helvetica",
+    oneFont: "Articulat CF"
   },
 
   textWeight: {
-    light: "",
-    regular: "",
-    semibold: ""
+    light: "300",
+    regular: "500",
+    semibold: "700"
   }
 };
 
