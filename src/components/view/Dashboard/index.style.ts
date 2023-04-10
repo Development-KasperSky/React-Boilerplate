@@ -8,6 +8,9 @@ export const DashboardViewStyle = styled("div")<DashboardViewStyleProps>(({ them
   const bdTheme = theme as BDTheme;
 
   return {
+    display: "flex",
+    justifyContent: "center",
+
     ".title": {
       display: "flex",
       justifyContent: "center",
